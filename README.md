@@ -1,2 +1,2 @@
-# src
-all source
+# repo
+all files and sources
